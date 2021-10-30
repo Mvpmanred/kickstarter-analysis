@@ -23,4 +23,4 @@ We need to extreamly pay attention to details when referencing data and using ex
 ### Limitations of this dataset
         There are several limitations of this dataset. For example, we are not sure if the data taht we use is truthful/genuine; we are not sure if the date is biased; or the date itself contains errors. These are the limitations of this dataset.
 ### Limitations of this dataset
- Since we are using percentage in graph, we can use Pie chart to create a graph. It will be better to visualize the data.
+        Since we are using percentage in graph, we can use Pie chart to create a graph. It will be better to visualize the data.
