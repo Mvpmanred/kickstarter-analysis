@@ -12,5 +12,5 @@ Theater campaign outcomes on the Y axis and launch date on the X axis.
 We use subcategory, “plays” to create graph to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
 Percentage outcomes on the Y axis and goal amount on the X axis.
 ### Challenges and Difficulties Encountered
-We need to extreamly pay attention to details when copying data and using excel functions. One small mistake may cause the excel function unable to run or cause error in the date set, and eventually would lead to an incorrect data graph.
+We need to extreamly pay attention to details when referencing data and using excel functions. One small mistake may cause the excel function unable to run or cause error in the date set, and eventually would lead to an incorrect data graph.
 ## Results
