@@ -14,11 +14,11 @@ Percentage outcomes label on the Y axis and goal amount label on the X axis.
 ### Challenges and Difficulties Encountered
 We need to extreamly pay attention to details when referencing data and using excel functions. One small mistake may cause the excel function unable to run or cause error in the date set, and eventually would lead to an incorrect data graph.
 ## Results
-### Outcomes based on Launch Date ###
+### Outcomes based on Launch Date
         Based on the Outcomes vs Launch dates graph, we can draw two conclusions.The first one is that we should allocate more resources to launch fundrasing campaigns in April and May. From our observations and analyses, we have 60% successful rate in April and 61% successful rate in May. There are total 426 successful outcomes in December.
         The second conclusion is that we should put fewer resources to lanuch fundraising campaigns in December. There is only 44% successul rate in December. It is the lowest successful rate throughout the year. There are only 111 successful outcomes in December. 
 
-### Outcomes based on Launch Date
+### Outcomes based on Goals
         From our analyses and observations, we can conclude the number of successul outcomes are more than number of failed outcomes when goal mount is lower. Especially in the range of X>1000>5000>9999. There are total 622 successful outcomes. 
 ### Limitations of this dataset
         There are several limitations of this dataset. For example, we are not sure if the data taht we use is truthful/genuine; we are not sure if the date is biased; or the date itself contains errors. These are the limitations of this dataset.
