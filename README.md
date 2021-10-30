@@ -19,7 +19,7 @@ We need to extreamly pay attention to details when referencing data and using ex
         The second conclusion is that we should put fewer resources to lanuch fundraising campaigns in December. There is only 44% successul rate in December. It is the lowest successful rate throughout the year. There are only 111 successful outcomes in December. 
 
 ### Outcomes based on Goals
-        From our analyses and observations, we can conclude the number of successul outcomes are more than number of failed outcomes when goal mount is lower. Especially in the range of X>1000>5000>9999. There are total 622 successful outcomes. 
+        From our analyses and observations, we can conclude the number of successul outcomes are more than number of failed outcomes when goal amount is lower. Especially in the range of X>1000>5000>9999. There are total 622 successful outcomes. 
 ### Limitations of this dataset
         There are several limitations of this dataset. For example, we are not sure if the data taht we use is truthful/genuine; we are not sure if the date is biased; or the date itself contains errors. These are the limitations of this dataset.
 ### Limitations of this dataset
